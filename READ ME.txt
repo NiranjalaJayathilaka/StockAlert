@@ -1,0 +1,5 @@
+The database is conected to the helloWorld.bal file but there is an issue in the query to insert a data and get the limit inorder to send the email notification.
+
+the database was made by the Ms Sql server.
+
+Have to change the Access token and Refresh token in every 3599 seconds. 
